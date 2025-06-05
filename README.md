@@ -20,7 +20,7 @@ This project demonstrates the implementation of a Library Management System usin
 ## Project Structure
 
 ### 1. Database Setup
-![ERD](https://github.com/najirh/Library-System-Management---P2/blob/main/library_erd.png)
+![ERD](https://github.com/Lucariops/SQL_Library_System_Management_Project-02/blob/main/ERD%20Model.png)
 
 -- Database Creation
 CREATE DATABASE SQL_Project_02;
